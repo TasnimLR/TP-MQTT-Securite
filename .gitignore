@@ -1,0 +1,13 @@
+# Fichiers sensibles à ne JAMAIS mettre sur Git
+*.key
+*.crt
+*.csr
+*.srl
+passwd
+
+# Dossiers de travail
+certs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
